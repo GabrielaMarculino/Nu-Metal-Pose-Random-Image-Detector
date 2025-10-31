@@ -1,6 +1,6 @@
 import cv2 # Permissões da Webcam
 import mediapipe as mp
-import random 
+import random
 
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
@@ -30,7 +30,7 @@ IMAGE_FILENAMES = [
     'numetal.jpg',  
     'calma.jpg',  
     'avril.jpg',  
-    'serj.png',  
+    'serj.jpg',  
     'davi.jpg'   
 ]
 
