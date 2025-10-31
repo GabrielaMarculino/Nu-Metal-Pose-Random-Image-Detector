@@ -52,8 +52,8 @@ You must have Python 3.x installed on your machine.
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO-DO-GITHUB]/[NOME-DO-SEU-REPO].git
-    cd [NOME-DO-SEU-REPO]
+    git clone [https://github.com/](https://github.com/)/GabrielaMarculino/Nu-Metal-Pose-Random-Image-Detector.git
+    cd [Nome da Pasta]
     ```
 
 2.  **Install the required libraries:**
@@ -66,7 +66,7 @@ You must have Python 3.x installed on your machine.
 1.  **Add Your Images:**
     * Find 5 images (or more!) that you want to display.
     * Place them in the same root folder as the Python script.
-    * Update the `IMAGE_FILENAMES` list in the Python script (`main.py` or `nu_metal_detector.py`) with the exact names of your files:
+    * Update the `IMAGE_FILENAMES` list in the Python script (`main.py`) with the exact names of your files:
     
     ```python
     IMAGE_FILENAMES = [
